@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kp-killer&label=Profile%20views&color=0e75b6&style=flat" alt="dhananjay5005" /> </p>
 
-- 🌱 I’m currently learning **HTML,C,C++,C#,java**
+- 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **HTML,C,C++,C#,java**
+- 💬 Ask me about **Java,Hibernate,Spring,SpringBoot,JavaScript,HTML,CSS,Angular,SQL,JDBC **
 
 - 📫 How to reach me **dhananajayn5000@gmail.com**
 
