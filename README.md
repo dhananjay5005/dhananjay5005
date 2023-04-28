@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **Java,Hibernate,Spring,SpringBoot,JavaScript,HTML,CSS,Angular,SQL,JDBC **
+- 💬 Ask me about **Java,Hibernate,Spring,SpringBoot,JavaScript,HTML,CSS,Angular,SQL,JDBC**
 
 - 📫 How to reach me **dhananajayn5000@gmail.com**
 
